@@ -18,3 +18,5 @@ __pycache__/
 # Claude project settings (local only)
 .claude/settings.local.json
 .claude/scheduled_tasks.lock
+
+.claude
