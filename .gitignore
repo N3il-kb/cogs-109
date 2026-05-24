@@ -1,0 +1,20 @@
+# Environment / secrets
+.env
+
+# Raw data cache (large downloads — regenerate with scripts)
+data/cache/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Claude project settings (local only)
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
