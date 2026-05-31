@@ -7,6 +7,9 @@ data/cache/
 # Notebook checkpoints
 .ipynb_checkpoints/
 
+# Generated figures (notebook regenerates them on run)
+figures/
+
 # Python
 __pycache__/
 *.pyc
