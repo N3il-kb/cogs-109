@@ -1,0 +1,4 @@
+model,params,cv_auc,cv_accuracy
+Logistic,unpenalized,0.5878205128205128,0.7816176470588234
+KNN,K=10,0.5923076923076923,0.7753676470588234
+Baseline (predict no-DC),-,0.5,0.7692307692307692

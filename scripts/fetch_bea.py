@@ -16,9 +16,11 @@ from pathlib import Path
 
 import pandas as pd
 import requests
+from dotenv import load_dotenv
 
 # --- Config ---
-API_KEY = "B811EFCC-8331-455B-B059-6710CDCEA6AD"
+load_dotenv(Path(__file__).parent.parent / ".env")
+API_KEY = os.environ["BEA_API_KEY"]
 BASE_URL = "https://apps.bea.gov/api/data"
 CACHE_DIR = Path("/Users/neilk/Desktop/School/Yr 3/Q3/COGS 109/cogs-109/data/cache/bea")
 OUT_CSV = Path("/Users/neilk/Desktop/School/Yr 3/Q3/COGS 109/cogs-109/data/raw/bea_panel.csv")

@@ -1,0 +1,125 @@
+fips,county,state,population,matched_to_treated_fips,dc_check,notes
+01001,Autauga County,AL,55380,01071,clean,
+01003,Baldwin County,AL,212830,01089,clean,
+01031,Coffee County,AL,51662,01071,clean,
+01033,Colbert County,AL,54771,01071,clean,
+01045,Dale County,AL,49277,01071,clean,
+01097,Mobile County,AL,414114,01089,minor_colo_noted,"Only small colocation: Lumen 'Mobile 1' at 50 N. Lawrence St (~1,829 sqft) and a tw telecom facility at 63 S. Royal St. No hyperscale or large cluster; unlikely to move county-level outcomes for a 414"
+01101,Montgomery County,AL,226941,01089,clean,"future_dc_2023plus: Meta hyperscale AI data center campus in Montgomery. Expanding to ~1.3M sqft, investment raised to $1.5B+ (part of $3B+ Meta AL footprint with 227MW renewable energy). First facility expected live end"
+01117,Shelby County,AL,213432,01089,clean,"future_dc_2023plus: Wilsonville Hyperscale Data Center: proposed 3.1M sqft, 1,008 MW, 14 buildings on 687 acres near Gaston Steam Plant. Plus the ~$200M DigiPower-X project in Columbiana (prompting new local DC zoning ru"
+04015,Mohave County,AZ,207695,32031,clean,cross-state fill for NV (NV shortfall)
+04019,Pima County,AZ,1027207,04013,clean,"future_dc_2023plus: Project Blue: $3.6B hyperscale data center, ~290-acre site near Pima County Fairgrounds, up to 10 buildings / ~2M sqft. Developed by Beale Infrastructure; construction began April 24, 2026. Pima Count"
+04021,Pinal County,AZ,432793,04013,clean,"future_dc_2023plus: Watch-list county confirmed. Vermaland Data Center Park (La Osa) near Eloy: up to 3 GW on ~3,300 acres, ~$33B, announced Sept 2025, focused on hyperscale/AI. Multiple additional large proposals (one ~"
+04025,Yavapai County,AZ,228067,04013,clean,
+04027,Yuma County,AZ,209468,04013,clean,
+06013,Contra Costa County,CA,1142251,06001,clean,"future_dc_2023plus: AVAIO Digital 'Perseus' hyperscale data center campus in Pittsburg (former Delta View Golf Course / Pittsburg Technology Park). Initial 92 MW facility, ~$800M, approved and began construction in 2025 "
+06019,Fresno County,CA,984521,06001,minor_colo_noted,"Only small colocation/carrier facilities found: ~3 facilities totaling roughly 2 MW, providers CyrusOne (1 site) and Lumen (2). No hyperscale or large multi-operator cluster. Too small to plausibly mo"
+13015,Bartow County,GA,104919,13217,clean,"future_dc_2023plus: Switch 'KEEP 2.0' Atlanta North hyperscale campus near Cartersville, PLUS 'Project Bunkhouse', an ~8.6-8.7M sq ft / 876-acre data center campus estimated at ~$19B with projected $40-50M/yr in property"
+13113,Fayette County,GA,112303,13217,clean,"future_dc_2023plus: QTS 'Project Excalibur' near Fayetteville/Peachtree City, billed as the world's largest multi-tenant data center campus: 615 acres, up to 16 buildings, ~7M sq ft, ~$1B investment; construction started"
+13115,Floyd County,GA,97369,13217,clean,"backfill replacing in-panel-contaminated 13313 (Whitfield County, Georgia)"
+13185,Lowndes County,GA,115364,13217,clean,
+19013,Black Hawk County,IA,132393,19153,minor_colo_noted,"Only modest facilities: Wahawk Power data center (~80,000 SF, ~$6M value) in South Waterloo Business Park and Connect Cedar Valley (~24,000 SF) in Cedar Falls. No hyperscale; major Iowa hyperscale act"
+19103,Johnson County,IA,148577,19153,clean,
+19113,Linn County,IA,223861,19153,clean,"future_dc_2023plus: Two major hyperscale campuses in Cedar Rapids: Google (~$576M, Big Cedar Industrial Park) and QTS (~$750M, 612-acre site, broke ground Aug 2025), combined >$1.3B. Plus Google's proposed six-building c"
+19163,Scott County,IA,172446,19153,clean,"future_dc_2023plus: Meta (via shell Vemerald LLC) owns a 328-acre site in Davenport (Hillandale Rd & Enterprise Way) for an approved two-hall, ~715,000 sq ft campus, ~$420-800M, IEDA-approved. NOTE: as of June 2026 the l"
+17097,Lake County,IL,701473,17037,clean,"backfill replacing in-panel-contaminated 17043 (DuPage County, Illinois)"
+17115,Macon County,IL,105528,17037,clean,
+18039,Elkhart County,IN,204558,18141,clean,"future_dc_2023plus: Bristol data center campus (Province Group for an undisclosed tech firm): $1 billion, ~1 million sq ft on ~247 acres; rezoned (2024) and town annexed ~500+ acres, moving forward as of 2026. Additional"
+18057,Hamilton County,IN,323117,18003,clean,"future_dc_2023plus: Westfield Data Center Campus (Servistar Industrial Way, Westfield, Hamilton County): proposed $2.7 billion, ~2.7 million sq ft, 10 three-story buildings built out over 13-18 years; received Indiana da"
+29077,Greene County,MO,289756,29047,minor_colo_noted,"Bluebird Underground Data Center in Springfield: ~80,000 sq ft underground colocation facility (~25,000 sq ft colo space) built in a former limestone mine, operated by Bluebird Network. Single modest "
+29099,Jefferson County,MO,223951,29047,clean,"future_dc_2023plus: Festus $6 billion CRG/Clayco data center (likely hyperscale), ~360 acres north of Highway 67. Festus City Council approved the framework ordinance 6-2 on March 30, 2026; developer says it has vested r"
+37001,Alamance County,NC,163324,37035,clean,
+37031,Carteret County,NC,69070,37161,clean,
+37057,Davidson County,NC,165381,37035,clean,
+37069,Franklin County,NC,66362,37161,clean,
+37135,Orange County,NC,144836,37035,clean,
+37151,Randolph County,NC,143118,37035,clean,
+37163,Sampson County,NC,63385,37161,clean,
+37193,Wilkes County,NC,68469,37161,clean,
+31053,Dodge County,NE,36665,31153,clean,
+31079,Hall County,NE,61265,31153,minor_colo_noted,Hall County Board approved a ~14MW crypto data center near Grand Island; ArchGreen Infrastructure proposed a second crypto/data-center facility in the Doniphan area. These are modest crypto facilities
+31109,Lancaster County,NE,313158,31153,clean,"future_dc_2023plus: Google confirmed a hyperscale data center campus in Lincoln (Lancaster County) - ~$600M, roughly 2 million sq ft on ~580 acres near I-80/N 56th St, developed via Agate LLC. A March 2026 Google proposa"
+31157,Scotts Bluff County,NE,36074,31153,clean,"backfill replacing in-panel-contaminated 31019 (Buffalo County, Nebraska)"
+35001,Bernalillo County,NM,677858,32031,minor_colo_noted,"Albuquerque hosts mid-size colocation/carrier hotels (H5 ~225k SF, CenterSquare/Csquare, Cyxtera, Oso Grande) but no hyperscale campus. Meta's campus is in Los Lunas (Valencia County), Project Jupiter | cross-state fill for NV (NV shortfall)"
+35005,Chaves County,NM,65144,35061,clean,"future_dc_2023plus: Chaves County commissioners approved (Aug 2025) Zenith Volts Corp.'s data-center campus ~20 miles south of Roswell: 1.3GW power, 8,500-acre site, ~$11.7B capital investment, on-site solar/gas/BESS, ta"
+35013,Doña Ana County,NM,216069,32031,clean,"future_dc_2023plus: Hosts Project Jupiter in Santa Teresa, a $165B hyperscale AI campus and one of OpenAI/Oracle/SoftBank's five Stargate sites. County approved $165B in revenue bonds Sept 2025; 4 data centers + microgri | cross-state fill for NV (NV shortfall)"
+35025,Lea County,NM,70277,35061,clean,"future_dc_2023plus: New Era Energy & Digital signed a land option for ~3,500 acres in Lea County (near Hobbs) for an explicitly hyperscale, up-to-7GW AI data-center campus with on-site gas (2GW+) and nuclear (5GW+) power"
+35031,McKinley County,NM,72438,35061,clean,
+35035,Otero County,NM,66137,35061,clean,
+35049,Santa Fe County,NM,149293,32031,clean,cross-state fill for NV (NV shortfall)
+32005,Douglas County,NV,48132,32003,clean,
+32007,Elko County,NV,52297,32031,minor_colo_noted,"Only a single small facility found (BluSky Wells, 1120 Hacienda Ranch Rd, Elko). Industry articles mention Elko as a future/emerging expansion target but no hyperscale facility is operating or approve"
+32019,Lyon County,NV,54380,32003,clean,"future_dc_2023plus: Microsoft purchased 300 acres ($70.5M, Apr 2025) in Fernley's Victory Logistics District and obtained county approval to merge/resubdivide parcels for a potential hyperscale campus. Fernley/Victory Lo"
+32023,Nye County,NV,44380,32029,clean,
+32510,Carson City,NV,54773,32031,minor_colo_noted,"Only a single small facility found (Xogenous Data Center, 1175 Fairview Dr) - a small IT/colocation operation. The large Northern Nevada hyperscale activity (Google, Vantage, Switch, Tract) is in neig"
+39045,Fairfield County,OH,154457,39089,clean,"future_dc_2023plus: Google Lancaster hyperscale data center (105 Whiley Rd, Lancaster, opened 2023) AND Vantage Data Centers OH2 Millersport campus (~500 acres, up to 800 MW) both in Fairfield County. Multiple hyperscale"
+39057,Greene County,OH,166502,39089,clean,"future_dc_2023plus: AWS (Amazon Web Services) hyperscale data center in Xenia, Ohio at 1488 S US-68, ~$4 billion investment. Part of AWS's $10B+ Ohio expansion. Listed on datacentermap under Dayton metro. Hyperscale oper"
+39061,Hamilton County,OH,813589,39049,minor_colo_noted,"Cincinnati/Hamilton County has only colocation operators (Flexential ~43k sqft in West Chester, plus Cologix/Equinix-type providers, 26 facilities/6 operators). Ohio's hyperscale campuses are in adjac"
+39077,Huron County,OH,58339,39159,clean,
+39095,Lucas County,OH,431102,39049,minor_colo_noted,"Only small Toledo colocation: Telesystem DC-1 (40,000 sq ft), CISP, and Verizon Toledo. A hyperscale facility is only being 'eyed' in Waterville Township (1,000-1,400 acres), not built. The large Meta"
+39103,Medina County,OH,177980,39089,clean,"future_dc_2023plus: Multiple large hyperscale developments confirmed: Tract's master-planned hyperscale Medina Technology Park campus, plus a ~$500M hyperscale facility on County Road 6712, described by the county as the"
+39113,Montgomery County,OH,531670,39049,minor_colo_noted,"Only modest colocation: Iron Mountain OHS-1 in Miamisburg, a 44,000 sq ft / 1.4 MW Tier III colocation facility. Far too small to move county-level outcomes for a 531k-population county. No hyperscale"
+39129,Pickaway County,OH,57762,39159,clean,"future_dc_2023plus: AWS (Amazon) purchased 234 acres for $49.1M for a hyperscale data center south of Columbus, part of Amazon's $7.8-10B Ohio data-center investment; Amazon also runs a 2,000-acre solar farm spanning Pic"
+39133,Portage County,OH,162511,39089,clean,
+39143,Sandusky County,OH,59029,39159,clean,
+39147,Seneca County,OH,55351,39159,clean,
+39153,Summit County,OH,541334,39049,minor_colo_noted,"Akron/Summit County has 7 data centers, but they are colocation and crypto/AI rather than hyperscale cloud campuses: Viking (380k sqft / ~150MW crypto-AI in former Goodyear plant), ark data centers (~"
+40041,Delaware County,OK,42433,40097,clean,
+40087,McClain County,OK,39247,40097,clean,
+40111,Okmulgee County,OK,38749,40097,clean,
+40135,Sequoyah County,OK,41709,40097,clean,
+41003,Benton County,OR,91107,41049,minor_colo_noted,"Only small/virtual colocation references for Corvallis (e.g., BizTech Consult managed/virtual data center services). No hyperscale or large multi-operator facility. Benton is not part of Oregon's data"
+41007,Clatsop County,OR,39102,41049,minor_colo_noted,"Only a small speculative project: a ~100,000 sq ft 'North Coast Data and Technology Center' proposed in Warrenton by independent entrepreneur Mark Cox / Agile Design (targeted opening end of 2020, ~76"
+41009,Columbia County,OR,51375,41049,clean,
+41011,Coos County,OR,63686,41013,clean,
+41033,Josephine County,OR,86251,41059,clean,
+41035,Klamath County,OR,66921,41059,minor_colo_noted,Only a small colocation provider: FireServe operates a modest colocation site at 900 Main St in Klamath Falls. No hyperscale or large-cluster presence. Klamath is not part of Oregon's data center clus
+41041,Lincoln County,OR,48547,41013,clean,
+41045,Malheur County,OR,30412,41013,clean,
+41053,Polk County,OR,83037,41059,clean,
+41057,Tillamook County,OR,26389,41049,clean,
+41061,Union County,OR,26337,41013,clean,
+41071,Yamhill County,OR,104831,41059,clean,
+45007,Anderson County,SC,198064,45015,minor_colo_noted,"No confirmed operating hyperscale facility. Vertiv operates a data-center-equipment manufacturing plant in/near Anderson (Pelzer) and Duke Energy plans a gas plant in the county, but these are not dat"
+45013,Beaufort County,SC,186095,45015,clean,
+47009,Blount County,TN,129927,47125,clean,
+47163,Sullivan County,TN,157050,47125,minor_colo_noted,"One small colocation data center in Bristol per datacentermap. A Deloitte/TVA study pre-qualified the Bristol West Industrial Park as a potential data-center site, but nothing hyperscale has been buil"
+47187,Williamson County,TN,225389,47125,minor_colo_noted,"Flexential operates enterprise/colocation data centers in Brentwood, Cool Springs, and Franklin (Williamson County). These are modest colocation/enterprise facilities, not hyperscale. The Nashville-ar"
+47189,Wilson County,TN,136666,47125,clean,
+48135,Ector County,TX,160579,48139,clean,"future_dc_2023plus: Texas Critical Data Centers (TCDC) is a flagship 1+ GW hyperscale AI/HPC campus on 438 acres near Odessa in Ector County, developed by New Era Energy & Digital with Stream Data Centers JV. Hyperscale-"
+48141,El Paso County,TX,836062,48439,clean,"future_dc_2023plus: Meta is building a hyperscale AI data center in Northeast El Paso on ~1,000 acres, investment scaled up from $1.5B to $10B, targeting 1 GW capacity by 2028. Clear hyperscale facility."
+48157,Fort Bend County,TX,765394,48439,clean,"backfill replacing in-panel-contaminated 48085 (Collin County, Texas)"
+48187,Guadalupe County,TX,158966,48139,clean,"future_dc_2023plus: Guadalupe County Commissioners approved (April 2026) a development agreement and 10-yr tax abatement for CloudBurst Texas LLC, a 1.2 GW, $14.5B hyperscale AI campus on 706 acres in northern Guadalupe "
+48215,Hidalgo County,TX,855176,48439,minor_colo_noted,"MDC (McAllen Data Center) operates a colocation facility in McAllen for US-Mexico border carrier interconnection. Regional connectivity colo, not hyperscale. No hyperscale campus found in the McAllen/"
+48251,Johnson County,TX,167212,48139,clean,
+48329,Midland County,TX,168167,48139,minor_colo_noted,"BBT (Big Bend Telephone) opened 'Midland 1', the first multi-tenant colocation data center in Midland, ~10 miles west of downtown near the spaceport. Single modest carrier-neutral colo facility; not h"
+48339,Montgomery County,TX,571949,48439,minor_colo_noted,"Westland Bunker (~12MW) + Stream Woodlands (~6.75MW) colo operational pre-2022, sub-hyperscale; backfill replacing in-panel-contaminated 48121 (Denton County, Texas)"
+49003,Box Elder County,UT,53946,49049,clean,"future_dc_2023plus: Box Elder County Commissioners approved (May 4, 2026) the Stratos Project (a.k.a. Wonder Valley), Kevin O'Leary / O'Leary Digital's 9 GW off-grid hyperscale AI data center campus in Hansel Valley (ori"
+49005,Cache County,UT,124165,49049,clean,
+49011,Davis County,UT,345767,32031,minor_colo_noted,Only small colocation/IT facilities (Layton/Clearfield/Bountiful area). Utah's hyperscale facilities are elsewhere: Meta Eagle Mountain (Utah County) and the proposed Stratos/O'Leary campus (Box Elder | cross-state fill for NV (NV shortfall)
+49021,Iron County,UT,51213,49049,clean,"backfill replacing in-panel-contaminated 49035 (Salt Lake County, Utah)"
+49045,Tooele County,UT,67397,49049,clean,
+49053,Washington County,UT,165811,32031,minor_colo_noted,St. George has a single modest operator (ValorC3) per datacentermap (1 facility). No hyperscale presence; Utah's hyperscale projects are in Box Elder/Utah counties. Local activity is mainly protests a | cross-state fill for NV (NV shortfall)
+49057,Weber County,UT,251498,32031,minor_colo_noted,"Ogden hosts only small colocation: WebNX (~100k sqft) and Lumen/Level3 Ogden 1 (~20k sqft, ~2,188 sqft colo). No hyperscale operator. Modest enterprise/colo scale unlikely to move county-level outcome | cross-state fill for NV (NV shortfall)"
+51013,Arlington County,VA,233464,51087,clean,
+51015,Augusta County,VA,75079,51117,clean,matched_to re-pointed from 51165 (now always-treated/removed) to nearest in-panel VA treated 51117
+51019,Bedford County,VA,78376,51117,clean,matched_to re-pointed from 51165 (now always-treated/removed) to nearest in-panel VA treated 51117
+51033,Caroline County,VA,30381,51117,clean,"future_dc_2023plus: CleanArc Data Centers broke ground on its flagship 'VA1' 900MW hyperscale campus, a $3 billion investment with initial 200MW expected Q3 2026 and full buildout by ~2035. Clearly large enough to move c"
+51035,Carroll County,VA,29801,51117,clean,
+51041,Chesterfield County,VA,343551,51087,clean,"future_dc_2023plus: Chesterfield County hosts the Chirisa Technology Parks / PowerHouse 'Digital Drive' hyperscale campus at Meadowville Technology Park: 104+ acres, five AI-ready facilities (>600,000 sqft), 300 MW secur"
+51095,James City County,VA,74916,51117,clean,matched_to re-pointed from 51165 (now always-treated/removed) to nearest in-panel VA treated 51117
+51173,Smyth County,VA,30767,51117,clean,
+51510,Alexandria city,VA,157613,51117,clean,"backfill replacing in-panel-contaminated 51153 (Prince William County, Virginia) | matched_to re-pointed from 51059 (now always-treated/removed) to nearest in-panel VA treated 51117"
+51550,Chesapeake city,VA,239982,51087,clean,matched_to re-pointed from 51059 (now always-treated/removed) to nearest in-panel VA treated 51087
+51680,Lynchburg city,VA,80569,51117,minor_colo_noted,"Only a Lumos (Lumos Networks) colocation data center found in Lynchburg. Small regional carrier/colo facility, not hyperscale. Unlikely to move county/city-level economic outcomes. Acceptable as contr | matched_to re-pointed from 51165 (now always-treated/removed) to nearest in-panel VA treated 51117"
+51700,Newport News city,VA,179673,51087,minor_colo_noted,"Jefferson Lab (Thomas Jefferson National Accelerator Facility) was selected by DOE to host the High Performance Data Facility, a federal research supercomputer (~$300M+, $43M state-funded building) — "
+51710,Norfolk city,VA,244601,51087,minor_colo_noted,EdgeConneX operates a modest edge colocation facility in Norfolk. DataCenterMap lists only ~7 facilities from 3 small operators for Norfolk; no hyperscale presence. Small enough to remain an acceptabl
+51730,Petersburg city,VA,31362,51117,clean,"future_dc_2023plus: Menlo Digital MD-VA3 campus at 2255 Jamestown Dr, Petersburg: four 2-story buildings on ~74 acres, ~1.18M sq ft, 26 data halls, 300MW utility feed / 208MW critical IT power (Dominion), with one buildi"
+51760,Richmond city,VA,226622,51087,clean,matched_to re-pointed from 51059 (now always-treated/removed) to nearest in-panel VA treated 51087
+51810,Virginia Beach city,VA,450201,51087,minor_colo_noted,"Only the Globalinx Virginia Beach cable-landing data center found: a single carrier-neutral facility (~10,750 sqft on 11.5 acres, ~30 MW available) tied to the MAREA/BRUSA subsea cables. Not hyperscal | matched_to re-pointed from 51059 (now always-treated/removed) to nearest in-panel VA treated 51087"
+53015,Cowlitz County,WA,106778,53025,minor_colo_noted,"Only a small ~6MW crypto/data-processing facility (MiningSky, ~30 jobs, $12M) proposed in 2018 for Longview's old water treatment plant. No hyperscale or large multi-operator cluster found. Modest sca"
+53021,Franklin County,WA,92009,53025,minor_colo_noted,"Only the small Franklin PUD municipal colocation facility within its administrative building at 1411 W Clark St, Pasco (single facility, single operator on DataCenterMap). The large proposed area proj"
+56005,Campbell County,WY,47409,56021,clean,
+56013,Fremont County,WY,39812,56021,clean,
+56025,Natrona County,WY,80333,56021,clean,"future_dc_2023plus: Prometheus Hyperscale announced (Oct 2025) a 1.5 GW hyperscale data center campus on the Falls Ranch property ~10 miles east of Casper, straddling the Natrona-Converse county line. $500M+ initial inve"
+56037,Sweetwater County,WY,43521,56021,clean,
