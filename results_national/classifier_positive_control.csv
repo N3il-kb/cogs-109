@@ -1,0 +1,3 @@
+design,model,params,cv_auc,cv_accuracy,base_rate
+unmatched,Logistic,unpenalized,0.865,0.9044397463002113,0.0888382687927107
+unmatched,KNN,K=47,0.8295833333333335,0.9112050739957717,0.0888382687927107

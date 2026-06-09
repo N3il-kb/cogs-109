@@ -54,3 +54,10 @@ At threshold 0.5 the winner reaches accuracy 0.77 vs the 0.77 base-rate baseline
 
 Within the matched design, DC counties are **barely** separable from controls on pre-treatment observables (AUC 0.59, CI includes chance; accuracy = base rate). The honest read is two-sided: (1) the control matching in Phase 2 (same state + population band) deliberately stripped out the biggest selectors, so weak residual separability is expected and is a sign the matching worked; (2) whatever cross-sectional selection remains is too faint for these 9 observables to detect at n=169. Either way, identification leans on the **DiD within-county comparison**, not on cross-sectional contrasts. Because both classes experienced COVID, this is a **COVID-independent** statement about selection — consistent with Phase 4, where explicit COVID controls (M3+C) barely moved the electricity coefficient. **The classifier corroborates the regression read; it is not a causal estimator, and inference stays with the MLR.** (It does *not*, on its own, explain why the 3-county estimate was +0.89 vs the national ~+0.15 — that gap is better attributed to the 3-county design's tiny, non-representative treated sample than to a measured selection signature here.)
 
+
+
+---
+
+## Positive control (Phase 5b)
+
+A positive control re-ran this exact pipeline against an **unmatched** 400-county random pool. There the best model reaches **AUC 0.86** (vs ~0.59 here against matched controls) — confirming the pipeline detects DC-county selection in general, so the matched null reflects the matching removing that signal (design working), not an inert pipeline. See `classifier_positive_control.md` and `classifier_positive_control_roc.png`.
